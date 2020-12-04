@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*
+@tailwind base
+
+This line is to inject Tailwind’s base style, which is basically Normalize.css plus some additional styling provided by Tailwind.
+
+@tailwind components
+
+This injects component classes registered by plugins that are found in tailwind.config.js file.
+
+@tailwind utilities
+
+This injects all of utility classes provided by Tailwind CSS. These are also generated based on the config file.
+*/
