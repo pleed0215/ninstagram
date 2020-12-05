@@ -6,7 +6,7 @@ import Feed from "../Router/Feed";
 interface IGlobalRouter {
   isLoggedIn?: boolean;
 }
-
+//
 const LoggedInRoutes = () => (
   <>
     <Route exact path="/" component={Feed} />
