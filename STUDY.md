@@ -103,3 +103,5 @@ const App: React.FunctionComponent = () => (
             data: { isLoggedIn },
         } = useQuery(QUERY);
     ```
+
+    생각보다 tailwindcss가 customizing 할 수 있는 부분이 많다..
