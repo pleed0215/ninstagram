@@ -22,7 +22,6 @@ const App: React.FunctionComponent = () => {
       </div>
     );
   } else {
-    console.log(isLoggedIn);
     return <GlobalRouter isLoggedIn={isLoggedIn} />;
   }
 };

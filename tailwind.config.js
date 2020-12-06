@@ -8,7 +8,14 @@ module.exports = {
       gray: colors.trueGray,
     },
     fontFamily: {},
-    extend: {},
+    extend: {
+      height: {
+        half: "50vh",
+      },
+      fontFamily: {
+        amarillo: "Amarillo",
+      },
+    },
   },
   variants: {
     extend: {},

@@ -105,3 +105,17 @@ const App: React.FunctionComponent = () => (
     ```
 
     생각보다 tailwindcss가 customizing 할 수 있는 부분이 많다..
+
+### auth form 만들기
+
+- 그냥 보고 만들었다. 강의 들을 필요는 없는 부분이었다.
+
+#### useInput react hooks
+
+- 만들어 놓으면 좋을 것 같다.
+
+### react-toastify
+
+리액트 알림 패키지인가보다.
+
+사용방법이 넘나간단한데... 강려크..
