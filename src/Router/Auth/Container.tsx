@@ -1,7 +1,6 @@
 import { useMutation } from "@apollo/client";
 import React, { useState } from "react";
 import { toast } from "react-toastify";
-import { createSuper } from "typescript";
 import { useInput } from "../../utils/hooks";
 
 import AuthPresenter from "./Presenter";
